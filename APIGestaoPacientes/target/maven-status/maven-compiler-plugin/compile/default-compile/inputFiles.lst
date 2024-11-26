@@ -1,0 +1,11 @@
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/ApiGestaoPacientesApplication.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/Config/SwaggerConfig.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/controller/ConsultaController.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/controller/GestaoPacientesController.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/controller/PacienteController.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/model/ConsultaModel.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/model/PacienteModel.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/respository/ConsultaRepository.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/respository/PacienteRepository.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/service/ConsultaService.java
+/Users/joaodalri/Desktop/APIGestaoPacientes/src/main/java/com/joaod/APIGestaoPacientes/service/PacienteService.java
